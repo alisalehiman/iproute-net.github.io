@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a network engineer who is really interested in networking stuff. I am here to share my notes in my learnig journey. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+* Email: [keyvan@iproute.net](mailto:keyvan@iproute.net)
+* Linkedin: https://www.linkedin.com/in/keyvanghadimi
+* GitHub: github.com/iproute-net
